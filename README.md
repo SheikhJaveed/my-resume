@@ -13,7 +13,6 @@ Projects: - Shopping cart app using Java swing   <br>
           - Cryptographhy project using Python   <br>
 hobbies: cricket,movies,fitness.
 
-# **John Doe**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/johndoe)  
 [![GitHub](https://img.shields.io/badge/GitHub-johndoe-black)](https://github.com/johndoe)  

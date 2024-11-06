@@ -1,6 +1,6 @@
-# Resume <br>
 # Sheikh Mannan Javeed <br>
 # Ramaiah Institute of technology <br>
+
 ![alt text](https://lh5.googleusercontent.com/xWgdOfLVx0NSttwehBZAwzw28R83ZtmN73nMkHPfH-mbS3Apk1tidirwR_exMxs5RRXf_-UPmHubhjk_uOqt3U-MIJhWazsHr-O17hYgWXmj6J7VCsH1NTHES6KJBjvjUzMVlvpa)
 
 email: abc@gmail.com <br>
